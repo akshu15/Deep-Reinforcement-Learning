@@ -1,5 +1,5 @@
-# Deep-Reinforcement-Learning
-
+# Deep-Reinforcement-Learning using Q-Learning Algorithm
+ 
 # Description
 The goal of the assignment is to learn the trends in stock price and perform a series of trades over a period of time and end with a profit.
 In each trade we can either buy/sell/hold. We start with an investment capital of $100,000 and the performance is measured as a percentage of the return on investment. Here we have used Q-Learning algorithm for reinforcement learning to train an agent to learn the trends in stock price and perform a series of trades. The purpose of this assignment is to understand the benefits of using reinforcement learning to solve the real world problem of stock trading.
